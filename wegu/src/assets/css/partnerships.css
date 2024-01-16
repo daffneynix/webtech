@@ -1,0 +1,44 @@
+h1, h2, p, section {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin-top: 2rem;
+    font-family: 'Poppins', sans-serif;
+    background-color: #FAF9F6;
+}
+
+.partnership-container {   
+    padding: 20px;
+    max-width: 800px;
+    margin: 20px auto;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    font-size: 3rem;
+    color: #333;
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+.partnership-section {
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-size: 20px;
+    color: #333;
+    text-align: center;
+    margin-top: 1rem;
+    margin-bottom: 10px;
+}
+
+p {
+    font-size: 15px;
+    color: #666;
+    line-height: 1.6;
+}
